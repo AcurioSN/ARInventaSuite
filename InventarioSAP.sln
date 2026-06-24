@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "InventarioSAP", "InventarioSAP\InventarioSAP.vbproj", "{C2B01343-9A8B-4F88-AB78-B61645A37B12}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Data", "Data\Data.vbproj", "{A1BEC321-0B70-4F4A-A2CD-2A1A7E31B9F9}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Negocio", "Negocio\Negocio.vbproj", "{3AAC9791-F6FE-43F3-B554-6613E87A5E60}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2B01343-9A8B-4F88-AB78-B61645A37B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2B01343-9A8B-4F88-AB78-B61645A37B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2B01343-9A8B-4F88-AB78-B61645A37B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2B01343-9A8B-4F88-AB78-B61645A37B12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1BEC321-0B70-4F4A-A2CD-2A1A7E31B9F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1BEC321-0B70-4F4A-A2CD-2A1A7E31B9F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1BEC321-0B70-4F4A-A2CD-2A1A7E31B9F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1BEC321-0B70-4F4A-A2CD-2A1A7E31B9F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AAC9791-F6FE-43F3-B554-6613E87A5E60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AAC9791-F6FE-43F3-B554-6613E87A5E60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AAC9791-F6FE-43F3-B554-6613E87A5E60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AAC9791-F6FE-43F3-B554-6613E87A5E60}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {164A1E5A-0229-4D9B-9FEE-12AA19748CA2}
+	EndGlobalSection
+EndGlobal
