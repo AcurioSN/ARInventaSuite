@@ -341,7 +341,7 @@
 				<!--end::Aside-->
 				<!--begin::Wrapper-->
 				<div class="wrapper d-flex flex-column flex-row-fluid" id="kt_wrapper">
-					<form  runat="server" translate="no"
+					<form  runat="server" translate="no">
 						<asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
 						<asp:Button ID="btnCerrarSesion" runat="server" Text="Button"  style="display:none;" />
 					<!--begin::Header-->

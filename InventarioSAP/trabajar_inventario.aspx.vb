@@ -324,10 +324,10 @@ Public Class trabajar_inventario
                 cbounidades_medida.DataBind()
 
                 lblUM.Visible = True
-                cbounidades_medida.Visible = True
+                cbounidades_medida.Visible = True '01072026
 
             Else
-
+                cbounidades_medida.Items.Clear() '01072026
                 lblUM.Visible = False
                 cbounidades_medida.Visible = False
 
