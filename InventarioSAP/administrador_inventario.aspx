@@ -360,7 +360,7 @@
 														</div>--%>
 													</div>
 												</div>
-												<div class="menu-item">
+<%--												<div class="menu-item">
 													<h4 class="menu-content text-muted mb-0 fs-6 fw-bold text-uppercase">Opciones</h4>
 													<div class="menu-sub menu-fit menu-sub-accordion show pb-10">
 														<div class="menu-item">
@@ -381,7 +381,7 @@
 														
 													
 													</div>
-												</div>
+												</div>--%>
 												<%--<div class="menu-item">
 													<h4 class="menu-content text-muted mb-0 fs-6 fw-bold text-uppercase">Mantenimiento</h4>
 													<div class="menu-sub menu-fit menu-sub-accordion show pb-10">
@@ -427,7 +427,7 @@
 														</div>
 													</div>
 												</div>--%>
-												<div class="menu-item">
+<%--												<div class="menu-item">
 													<h4 class="menu-content text-muted mb-0 fs-6 fw-bold text-uppercase">Profile</h4>
 													<div class="menu-sub menu-fit menu-sub-accordion show pb-10">
 														<div class="menu-item">
@@ -437,7 +437,7 @@
 														</div>
 													
 													</div>
-												</div>
+												</div>--%>
 												
 											</div>
 										</div>
